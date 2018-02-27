@@ -1,0 +1,16 @@
+{
+"title": [
+"足协宣布容大董事长禁入球场24个月 罚款10万_中甲_新浪竞技风暴_新浪网"
+],
+"url": [
+"http://sports.sina.com.cn/china/b/2017-07-05/doc-ifyhrxsk1836249.shtml"
+],
+"img": [
+"http://n.sinaimg.cn/sports/transform/20170704/88lV-fyhskrq3194380.jpg",
+"http://n.sinaimg.cn/sports/transform/20170705/l9lz-fyhskrq4345013.jpg"
+],
+"content": [
+"　　北京时间7月5日，足协宣布对保定容大董事长孟永立的处罚，禁止其进入中国足球协会举办的比赛所在体育场馆24个月并罚款10万元。",
+"　　7月1日，容大与卓尔赛后，容大董事长孟永立在发布会上宣布退出联赛，足协认定该言论给中国足球职业联赛造成十分恶劣的影响。"
+]
+}

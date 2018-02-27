@@ -1,0 +1,24 @@
+{
+"title": [
+"跪着看！史上最神任意球 这人墙已看傻|GIF_意大利_新浪竞技风暴_新浪网"
+],
+"url": [
+"http://sports.sina.com.cn/g/seriea/2017-07-05/doc-ifyhrxsk1825513.shtml"
+],
+"img": [
+"http://n.sinaimg.cn/sports/transform/20170705/fsK--fyhskrq4174764.jpg",
+"http://n.sinaimg.cn/sports/transform/20170705/iwf_-fyhskrq4175414.gif",
+"http://n.sinaimg.cn/sports/transform/20170705/MeJc-fyhskrq4175796.gif",
+"http://n.sinaimg.cn/sports/transform/20170705/4njm-fyhskrq4180767.gif",
+"http://n.sinaimg.cn/sports/transform/20170705/H5_u-fyhskrq4179439.gif",
+"http://n.sinaimg.cn/sports/transform/20170705/Nqke-fyhskrq4181230.gif"
+],
+"content": [
+"　　迪巴拉如今已经是尤文图斯的招牌球星，这位阿根廷新星在一场慈善赛上也是好好展示了一下自己的脚法，他打出了一脚几乎是不可能完成的任意球破门。",
+"　　当时迪巴拉在大禁区前沿得到了任意球的机会，一开始人墙还是比较正常，只是人也来越多，后来防守队员干脆直接都跑到了球门线上，不光场上球员，甚至替补球员都加入到了人墙之中，从视频中可以看到，连吃瓜群众都加入到了这一阵营。",
+"　　呼啦啦一大帮人把球门堵了起来，有几位还特意将自己挂在了球门上，封堵死角，不大的球门足足围了20人。",
+"　　不过迪巴拉可毫不在意，潇洒起脚，皮球划出一道美妙的弧线飞入球门，现场响起了雷鸣般的掌声和欢呼声，对手也是一起来庆祝膜拜。",
+"　　媒体口中的这位“新梅西”脚法是不是可以叫板梅西了。西班牙《马卡报》在报道这个进球的时候，就写到，“迪巴拉打入了最不可能打入的进球”。",
+"　　（威尔曼）"
+]
+}

@@ -1,0 +1,15 @@
+{
+"title": [
+"足协处罚容大主帅邦弗雷雷：禁赛2场 罚款一万元_中甲_新浪竞技风暴_新浪网"
+],
+"url": [
+"http://sports.sina.com.cn/china/b/2017-07-05/doc-ifyhrxsk1836417.shtml"
+],
+"img": [
+"http://n.sinaimg.cn/sports/transform/20170705/7JAc-fyhskrq4346713.jpg",
+"http://n.sinaimg.cn/sports/transform/20170705/2Ld0-fyhskrq4345181.jpg"
+],
+"content": [
+"北京时间7月5日消息，针对上周末中甲保定容大与武汉卓尔比赛中出现的问题，中国足协做出处罚。其中容大主帅邦弗雷雷以不适当言行干扰裁判执法，遭到足协禁止进入替补席2场，以及人民币1万元的处罚。"
+]
+}

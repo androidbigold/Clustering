@@ -1,0 +1,17 @@
+{
+"title": [
+"足协宣布处罚容大赛区空场1场 俱乐部通报批评_中甲_新浪竞技风暴_新浪网"
+],
+"url": [
+"http://sports.sina.com.cn/china/b/2017-07-05/doc-ifyhrxsk1835744.shtml"
+],
+"img": [
+"http://n.sinaimg.cn/sports/transform/20170704/sVQb-fyhskrq3164778.jpg",
+"http://n.sinaimg.cn/sports/transform/20170705/zET2-fyhskrq4338149.jpg",
+"http://n.sinaimg.cn/sports/transform/20170705/bkqY-fyhskrq4354806.jpg"
+],
+"content": [
+"　　北京时间7月5日，足协宣布了对中甲保定容大的罚单，因赛后多人围堵裁判休息室，对裁判员进行指责谩骂，并且发生殴打裁判的恶性事件，足协处罚保定赛区无观众比赛1场，罚款5万元。",
+"　　此外，俱乐部董事长孟永立赛后发表不负责任评论，足协还对保定容大俱乐部予以通报批评，并罚款10万元。"
+]
+}
